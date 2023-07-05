@@ -2,14 +2,12 @@
 
 <div align="center">
   
-  <img src="Mohau" alt="logo" width="140"  height="auto" />
+  <img src="Mohau" alt="Mohau" width="140"  height="auto" />
   <br/>
 
   <h3><b>Set-up "Hello Microverse" Project</b></h3>
 
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -86,8 +84,6 @@ In order to run this project you need:
 2- Code Editor
 3- Git
 
-Example command:
-
 ### Setup
 
 Clone this repository to your desired folder:
@@ -156,7 +152,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project leave a comment below
+If you like this project leave a ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,7 +160,7 @@ If you like this project leave a comment below
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse.
+I would like to thank Microverse and the code reviewers and fellow Micronauts for their assistance.
 
 <!-- LICENSE -->
 
