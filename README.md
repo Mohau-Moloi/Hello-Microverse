@@ -1,5 +1,6 @@
 <a name="readme-top"></a>
 
+feature-Hello_Microverse
 <div align="center">
   
   <img src="Mohau" alt="logo" width="140"  height="auto" />
@@ -37,7 +38,7 @@
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-> This is a website I created using HTML and CSS. The aim is to configure linters on the local enviroment and ensure there are no Linter errors.
+> This is a website I created using basic HTML and CSS. The aim is to configure linters on the local enviroment and ensure there are no Linter errors.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -156,7 +157,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project leave a comment below
+If you like this project leave a comment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,3 +172,4 @@ I would like to thank Microverse.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
