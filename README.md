@@ -1,5 +1,6 @@
 <a name="readme-top"></a>
 
+ Hello-Microverse
 <div align="center">
   
   <img src="Mohau" alt="Mohau" width="140"  height="auto" />
@@ -120,7 +121,7 @@ Open the index.html file utilizing the live server extension in your code editor
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="author"></a>
 
 👤 Mohau Moloi
 
@@ -167,3 +168,4 @@ I would like to thank Microverse and the code reviewers and fellow Micronauts fo
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
