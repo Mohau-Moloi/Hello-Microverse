@@ -28,3 +28,6 @@ Git or Gitbash is also required and should be enabled within the built-in termin
 -Clone the repository address: https://github.com/Mohau-Moloi/Linter_setup.git
 -Thereafter you can save a copy in a folder on your local enviroment or computer.
 
+### This project is MIT licensed.
+
+
