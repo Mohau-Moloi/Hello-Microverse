@@ -3,7 +3,7 @@
 feature-Hello_Microverse
 <div align="center">
   
-  <img src="Mohau" alt="logo" width="140"  height="auto" />
+  <img src="Mohau" alt="Mohau" width="140"  height="auto" />
   <br/>
 
   <h3><b>Set-up "Hello Microverse" Project</b></h3>
